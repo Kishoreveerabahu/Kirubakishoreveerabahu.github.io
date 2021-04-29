@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+}
+
+.heading {
+  background-color:rgb(231, 229,232);
+  color: rgb(118, 70, 168);
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3.0em;
+  height: 5vh;
+  padding-top: 0px;
+  padding-left: 0px;
+}
+
+body {
+  background-color: rgb(231, 229,232);
+}

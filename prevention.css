@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+}
+
+.container img {
+  width: 1350px;
+  height: 750px;
+}
+
+.heading {
+  background-color:rgb(73, 25,11);
+  color: rgb(203, 220, 227);
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3.0em;
+  height: 6vh;
+  padding-top: 0px;
+  padding-left: 0px;
+}
+
+body {
+  background-color: rgb(73, 25,11);
+}
